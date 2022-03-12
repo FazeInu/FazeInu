@@ -1,3 +1,6 @@
+
+![FAZEINU WELCOME](https://user-images.githubusercontent.com/100427399/158007349-e7ebf224-d3d5-4bea-9b2d-f91a91b39aef.png)
+
 Introduction
 
 FAZEINU is a Community-Based Project with Strong Use case & DeFi Features. Fazeinu will change the way we use crypto in our daily life with various utilities starts with day one of launch.
