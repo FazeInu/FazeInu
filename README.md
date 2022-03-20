@@ -1,3 +1,4 @@
+![pinksale fair launch](https://user-images.githubusercontent.com/100427399/159186811-6db55595-5eeb-445b-84c9-3495a9230196.png)
 
 ![FAZEINU WELCOME]
 
