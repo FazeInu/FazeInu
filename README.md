@@ -1,10 +1,9 @@
 
-![FAZEINU WELCOME](https://user-images.githubusercontent.com/100427399/158007349-e7ebf224-d3d5-4bea-9b2d-f91a91b39aef.png)
+![FAZEINU WELCOME]
 
 Introduction
 
 FAZEINU is a Community-Based Project with Strong Use case & DeFi Features. Fazeinu will change the way we use crypto in our daily life with various utilities starts with day one of launch.
-
 
 
 Features
@@ -27,16 +26,13 @@ Features
 
 ▫️P2P transactions
 
+Pinksale Fair Launch 
+https://www.pinksale.finance/#/launchpad/0x009cEA60a792Fe1e9E99C064E7b3bd53259817f2?chain=BSC
 
-
-Presale Roadmap
-
-Private Sale - 0.0001$ (3X Profit)
-
-Start Date - 15/03/2022 at 15:00 UTC (8:30 PM IST)
-
-End Date - 20/03/2022
-
+Tax Allocation (7% Buy/Sell)
+▫️3% Reflection
+▫️3% Buy Back
+▫️1% Liquidity
 
 
 Fazeinu Airdrop
@@ -45,9 +41,9 @@ New airdrop: FazeInu
 
 Rewards: 10.000.000 FINU
 
-End Date: 31st March 2022
+End Date: 5th April 2022
 
-Distribution: 4th April 2022
+Distribution: 10th April 2022
 
 🔗Airdrop Bot : u/FazeInuAirdrop_bot
 
@@ -56,9 +52,3 @@ Distribution: 4th April 2022
 Detailed Links
 
 https://linktr.ee/fazeinu
-
-
-
-Whitelist📃
-
-https://forms.gle/8wMUTw6G2N321oq77
